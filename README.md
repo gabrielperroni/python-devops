@@ -1,5 +1,3 @@
-Initial file
-Second line added
-New line adde
-Fouth line addedd`
-Fifth line added
+#README.md
+#Readme file for the python trainning started on 1st out. 
+
